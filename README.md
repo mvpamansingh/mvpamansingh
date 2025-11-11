@@ -1,7 +1,7 @@
 
 
   <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-  <h3 align="center">A passionate Android developer from India</h3>
+  <h3 align="center">A passionate Software Developer ( Full-Stack + Android developer) from India</h3>
   <div align="center">
   
   </div>
