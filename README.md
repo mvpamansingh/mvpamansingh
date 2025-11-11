@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Aman Singh</h1>
   <h3 align="center">A passionate Android developer from India</h3>
   <div align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZnOWIwNDgwMzY2M2w5MHc4dHN5eXhtc3JiYWg0NmFoY2hyamFuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zQinMHnDYiNnq/giphy.gif" width="100%"/> 
+  
   </div>
 
 
