@@ -1,24 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+<!--
+  Everything visual below is painted by scripts/build.mjs and published to the `output` branch
+  by .github/workflows/profile.yml. The scene and every card repaint with the time of day in India:
+  morning 05:00 · evening 16:00 · night 19:30 IST.
+-->
 
+<a href="https://amansinghportfolio.vercel.app/">
+  <img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/hero.svg" width="100%" alt="Aman Singh codes on a laptop under a tree on a flowered hillside, a golden retriever beside him and holographic panels floating in front of him. Below, a lake between snowy mountains; above, a ringed planet, a floating city and passing ships. A glowing pylon on a rock projects his live contribution graph. The scene changes with the time of day in India." />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mvpamansingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mvpamansingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansingh.as9@outlook.com) 
+<p align="center">
+  <a href="https://amansinghportfolio.vercel.app/"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/pill-portfolio.svg" height="32" alt="portfolio" /></a>
+  <a href="https://amansinghportfolio.vercel.app/resume.pdf"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/pill-resume.svg" height="32" alt="resume" /></a>
+  <a href="https://linkedin.com/in/mvpamansingh"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/pill-linkedin.svg" height="32" alt="linkedin" /></a>
+  <a href="https://x.com/mvpamansingh"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/pill-x.svg" height="32" alt="x" /></a>
+  <a href="https://youtube.com/@bunnysingh"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/pill-youtube.svg" height="32" alt="youtube" /></a>
+  <a href="mailto:amansingh.as9@outlook.com"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/pill-email.svg" height="32" alt="email" /></a>
+</p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mvpamansingh&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mvpamansingh&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mvpamansingh&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/log.svg" width="100%" alt="Mission log. Pilot: Aman Singh, founding software developer at a stealth startup. Mission: building a full-stack SaaS with Next.js, Node and Postgres. Shipped: flaky-test-detective, InterviewBuddy.AI, Bhagavad Gita, PlanIt. Prior posts: freelance 2024, IBM 2023, AICTE 2023. Seeking: full-time roles, backend-heavy product work. Open to work." />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mvpamansingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/biome.svg" width="100%" alt="The commit biome: every day of the last 52 weeks as a glowing hexagon, with all-time contributions, the last 12 months, active days, longest and current streak, the best day circled and the longest run this year marked." />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/voyage.svg" width="100%" alt="The voyage so far: a maglev line through each year since joining GitHub, a stream around it that swells with monthly commits, a station per year with its total and one line of the story." />
 
----
-[![](https://komarev.com/ghpvc/?username=mvpamansingh&icon=4&color=0)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/status.svg" width="100%" alt="System status: stars, public repos, followers, npm downloads, language mix and last push." />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/h-shipped.svg" width="100%" alt="Modules I shipped" />
+
+<p>
+  <a href="https://github.com/mvpamansingh/Flaky-cli"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/mod-flaky.svg" width="49%" alt="flaky-test-detective: finds the tests that lie. Reruns any suite on unchanged code, ranks flaky tests by flake rate and separates real bugs." /></a>
+  <a href="https://github.com/mvpamansingh/AI-Interviewer"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/mod-interviewbuddy.svg" width="49%" alt="InterviewBuddy.AI: real-time AI interviewer with resume-tailored questions, ramping difficulty and evaluation as you answer." /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.mvpamansingh.shrimadbhagavadgita"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/mod-gita.svg" width="49%" alt="Bhagavad Gita: all 700 verses with Sanskrit shlokas, a virtual temple with bhajans and aarti, and offline progress tracking." /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.mvpamansingh.planit"><img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/mod-planit.svg" width="49%" alt="PlanIt: todos plus a daily, weekly and monthly planner, built native for Android." /></a>
+</p>
+
+also built: [StoryHub](https://github.com/mvpamansingh/Medium-Blogging-project) (Hono on Cloudflare Workers) · [Anonymous Chat](https://github.com/mvpamansingh/Anonymous-Chat-App) (Kotlin) · [Paytm, MERN](https://github.com/mvpamansingh/Paytm-MERN-)
+
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/loadout.svg" width="100%" alt="Loadout. Languages: TypeScript, JavaScript, Kotlin, Java, C++. Frontend and mobile: React, Next.js, Chakra UI, Chart.js, Jetpack Compose, Android. Backend and data: Node.js, Express, Hono, Prisma, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Socket.io. Cloud and testing: AWS, Cloudflare, Vercel, Render, Firebase, GitHub Actions, Vitest, Puppeteer. AI and payments: OpenAI, Razorpay." />
+
+## Experience
+
+| Period | Company | Role |
+| --- | --- | --- |
+| Sep 2025 – Present | **Stealth startup** | Founding Software Developer |
+| Oct 2024 – Aug 2025 | **Independent** | Freelance Software Developer |
+| Oct 2023 – Dec 2023 | **IBM** | Full Stack Intern |
+| May 2023 – Aug 2023 | **AICTE** | Android Developer Intern |
+
+<img src="https://raw.githubusercontent.com/mvpamansingh/mvpamansingh/output/signoff.svg" width="100%" alt="BODHI-01 waves goodbye: thanks for visiting, transmission ends here." />

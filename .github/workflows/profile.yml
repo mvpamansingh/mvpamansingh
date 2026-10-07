@@ -1,0 +1,57 @@
+name: paint the profile
+
+on:
+  schedule:
+    # Time-of-day switches (IST = UTC+5:30)
+    - cron: '30 23 * * *'  # 05:00 IST → morning
+    - cron: '30 10 * * *'  # 16:00 IST → evening
+    - cron: '0 14 * * *'   # 19:30 IST → night
+    # Extra data refreshes
+    - cron: '30 4 * * *'   # 10:00 IST
+    - cron: '30 17 * * *'  # 23:00 IST
+  workflow_dispatch:
+    inputs:
+      time_of_day:
+        description: 'Force a time of day (leave empty for the real IST time)'
+        required: false
+        type: choice
+        options: ['', morning, evening, night]
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'data/**', 'art/**', '.github/workflows/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paint
+  cancel-in-progress: true
+
+jobs:
+  paint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Paint SVGs
+        run: node scripts/build.mjs --out dist
+        env:
+          # Optional: a classic PAT with read:user saved as GH_PAT also counts private contributions.
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          TIME_OF_DAY: ${{ inputs.time_of_day }}
+
+      # Images live on an orphan `output` branch that is force-pushed every run,
+      # so the main branch history never fills up with generated files.
+      - name: Publish to the output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "paint $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

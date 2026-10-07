@@ -1,0 +1,11 @@
+{
+  "name": "mvpamansingh-profile",
+  "private": true,
+  "type": "module",
+  "description": "A profile README that repaints itself with the time of day in India",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs --preview"
+  },
+  "engines": { "node": ">=20" }
+}

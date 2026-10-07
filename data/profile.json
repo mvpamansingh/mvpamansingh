@@ -1,0 +1,141 @@
+{
+  "login": "mvpamansingh",
+  "name": "Aman Singh",
+  "heroLine": "full-stack developer · founding engineer · India",
+  "role": "founding software developer",
+  "company": "a stealth startup",
+  "now": "building a full-stack SaaS · Next.js, Node, Postgres",
+  "status": "open to full-time roles · backend-heavy product work",
+  "before": "freelance ’24 · IBM ’23 · AICTE ’23",
+  "pet": "BODHI-01",
+  "npmPackage": "flaky-test-detective",
+  "links": [
+    {
+      "id": "portfolio",
+      "url": "https://amansinghportfolio.vercel.app/"
+    },
+    {
+      "id": "resume",
+      "url": "https://amansinghportfolio.vercel.app/resume.pdf"
+    },
+    {
+      "id": "linkedin",
+      "url": "https://linkedin.com/in/mvpamansingh"
+    },
+    {
+      "id": "x",
+      "url": "https://x.com/mvpamansingh"
+    },
+    {
+      "id": "youtube",
+      "url": "https://youtube.com/@bunnysingh"
+    },
+    {
+      "id": "email",
+      "url": "mailto:amansingh.as9@outlook.com"
+    }
+  ],
+  "chapters": {
+    "2022": "first commits",
+    "2023": "internships · AICTE & IBM",
+    "2024": "went freelance",
+    "2025": "founding dev, stealth startup",
+    "2026": "building the SaaS"
+  },
+  "projects": [
+    {
+      "slug": "flaky",
+      "name": "flaky-test-detective",
+      "tag": "npm · 250+ downloads",
+      "blurb": "Finds the tests that lie. Reruns any suite on unchanged code, ranks flaky tests by flake rate and separates real bugs.",
+      "stack": "TypeScript · Node · Vitest · Zod",
+      "url": "https://github.com/mvpamansingh/Flaky-cli",
+      "icon": "bug"
+    },
+    {
+      "slug": "interviewbuddy",
+      "name": "InterviewBuddy.AI",
+      "tag": "live",
+      "blurb": "Real-time AI interviewer with resume-tailored questions, ramping difficulty and evaluation as you answer.",
+      "stack": "React · Node · OpenAI · Razorpay",
+      "url": "https://github.com/mvpamansingh/AI-Interviewer",
+      "icon": "chat"
+    },
+    {
+      "slug": "gita",
+      "name": "Bhagavad Gita",
+      "tag": "play store",
+      "blurb": "All 700 verses with Sanskrit shlokas, a virtual temple with bhajans and aarti, and offline progress tracking.",
+      "stack": "Kotlin · Node · Express",
+      "url": "https://play.google.com/store/apps/details?id=com.mvpamansingh.shrimadbhagavadgita",
+      "icon": "lotus"
+    },
+    {
+      "slug": "planit",
+      "name": "PlanIt",
+      "tag": "play store",
+      "blurb": "Todos plus a daily, weekly and monthly planner, built native for Android.",
+      "stack": "Kotlin · Jetpack Compose",
+      "url": "https://play.google.com/store/apps/details?id=com.mvpamansingh.planit",
+      "icon": "check"
+    }
+  ],
+  "toolkit": [
+    [
+      "languages",
+      [
+        "TypeScript",
+        "JavaScript",
+        "Kotlin",
+        "Java",
+        "C++"
+      ]
+    ],
+    [
+      "frontend & mobile",
+      [
+        "React",
+        "Next.js",
+        "Chakra UI",
+        "Chart.js",
+        "Jetpack Compose",
+        "Android"
+      ]
+    ],
+    [
+      "backend & data",
+      [
+        "Node.js",
+        "Express",
+        "Hono",
+        "Prisma",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "RabbitMQ",
+        "Socket.io"
+      ]
+    ],
+    [
+      "cloud & testing",
+      [
+        "AWS",
+        "Cloudflare",
+        "Vercel",
+        "Render",
+        "Firebase",
+        "GitHub Actions",
+        "Vitest",
+        "Puppeteer"
+      ]
+    ],
+    [
+      "ai & payments",
+      [
+        "OpenAI",
+        "Razorpay"
+      ]
+    ]
+  ]
+}
