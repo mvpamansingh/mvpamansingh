@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="32" viewBox="0 0 118 32" role="img" aria-labelledby="t d">
+<title id="t">portfolio</title><desc id="d">portfolio</desc>
+<style>
+.d{font-family:'SG', 'Segoe UI', system-ui, sans-serif;font-weight:700}.dm{font-family:'SG', 'Segoe UI', system-ui, sans-serif;font-weight:500}.hand{font-family:'Hand', 'Segoe Print', cursive;font-weight:600}.mono{font-family:'JB', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.in{animation:in .7s ease-out both}@keyframes in{from{opacity:0;transform:translateY(6px)}}
+.vine{animation:vine 5s ease-in-out infinite alternate}@keyframes vine{to{transform:translateY(1.5px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="116" height="30" rx="16" fill="#06141f" stroke="#5ff2d8" stroke-opacity=".6"/><circle cx="18" cy="16" r="4" fill="#5ff2d8"/><text x="30" y="20.5" class="mono" font-size="12.5" fill="#e3fbff">portfolio</text>
+</svg>
